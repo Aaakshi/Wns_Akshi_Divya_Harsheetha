@@ -1,1 +1,1 @@
-#THis is the payment integration python file.
+# Payment logic v1
