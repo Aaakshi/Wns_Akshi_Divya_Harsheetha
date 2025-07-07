@@ -1,1 +1,1 @@
-# Payment logic v1
+# Payment logic v2
